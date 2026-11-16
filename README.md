@@ -1,2 +1,3 @@
-# messenger-redlab
-Autonomous AI-powered security research framework for vulnerability discovery, validation, and remediation in a self-hosted messenger.
+# Messenger Redlab
+
+Messenger Redlab is an autonomous, AI-powered security research framework for discovering, validating, and remediating vulnerabilities in a self-hosted messenger.
